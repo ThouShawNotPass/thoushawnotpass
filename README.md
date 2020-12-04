@@ -1,5 +1,5 @@
 ## 👋 Hey I'm Justin
-<img align="left" src="https://drive.google.com/file/d/1y1xdVnhBMzl792WOAMvBZk1WdtYJNNFI/view?usp=sharing">
+<img align="left" src="https://i.imgur.com/hfhc9eh.jpg">
 <a href="https://thoushawnotpass.github.io/portfolio/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thoushawnotpass&show_icons=true&theme=react&custom_title=Github%20Stats&include_all_commits=true&count_private=true" height="170"/>
 </a>
