@@ -1,5 +1,4 @@
-# 👋 Hey 
-## I'm Justin
+# 👋 Hey I'm Justin
 <a href="https://thoushawnotpass.github.io/portfolio/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thoushawnotpass&show_icons=true&theme=react&custom_title=Github%20Stats&include_all_commits=true&count_private=true" height="170"/>
 </a>
