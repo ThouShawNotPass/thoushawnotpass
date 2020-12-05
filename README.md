@@ -13,17 +13,20 @@ I'm [Justin Shaw](https://thoushawnotpass.github.io/portfolio/), a student 🎓 
 
 <br/>
 
-<span>
+<p align="center">
   <a href="https://twitter.com/justin_a_shaw">
     <img alt="Justin's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    &nbsp;&nbsp;&nbsp;
   </a>
   <a href="https://www.linkedin.com/in/justin--shaw/">
     <img alt="Justin's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    &nbsp;&nbsp;&nbsp;
   </a>
   <a href="https://www.instagram.com/justinalexandershaw/">
     <img alt="Justin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    &nbsp;&nbsp;&nbsp;
   </a>
   <a href="https://www.reddit.com/user/alexanderthegreat27/">
     <img alt="Justin's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
   </a>
-<span/>
+</p>
