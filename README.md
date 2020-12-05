@@ -7,7 +7,7 @@ I'm [Justin Shaw](https://thoushawnotpass.github.io/portfolio/), a student 🎓 
 <div>
   <img width="26%" src="https://i.imgur.com/hfhc9eh.jpg">
   <a href="https://thoushawnotpass.github.io/portfolio/">
-    <img width="70%" src="https://github-readme-stats.vercel.app/api?username=justinalexandershaw&show_icons=true&theme=react&custom_title=Github%20Stats&include_all_commits=true&count_private=true"/>
+    <img width="70%" src="https://github-readme-stats.vercel.app/api?username=justinalexandershaw&show_icons=true&theme=dark&custom_title=My%20Github%20Stats&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
