@@ -14,7 +14,7 @@ I'm [Justin Shaw](https://thoushawnotpass.github.io/portfolio/), a student 🎓 
 <br/>
 
 <div>
-  <a href="https://thoushawnotpass.github.io/portfolio/">
+  <a href="https://wakatime.com/dashboard">
     <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=justinalexandershaw"/>
   </a>
   <img width="26%" src="https://i.imgur.com/xzJSyIm.jpg">
