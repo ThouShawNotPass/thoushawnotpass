@@ -1,8 +1,6 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<br/>
-
-Hi, I'm [Justin Shaw](https://thoushawnotpass.github.io/portfolio/), a student 🎓 at the University of Washington studying math and computer science 🚀. I am an undergraduate researcher with 🧬 [@GEMSEC](http://depts.washington.edu/gemsec/) and co-founder of ✏️ [@Tutorly](https://www.tutorly.app). In my free time, I drink coffee and play soccer.
+I'm [Justin Shaw](https://thoushawnotpass.github.io/portfolio/), a student 🎓 at the University of Washington studying math and computer science 🚀. I am an undergraduate researcher with 🧬 [@GEMSEC](http://depts.washington.edu/gemsec/) and co-founder of ✏️ [@Tutorly](https://www.tutorly.app). In my free time, I drink coffee and play soccer.
 
 <br/>
 
