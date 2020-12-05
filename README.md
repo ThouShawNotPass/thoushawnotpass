@@ -13,6 +13,15 @@ I'm [Justin Shaw](https://thoushawnotpass.github.io/portfolio/), a student 🎓 
 
 <br/>
 
+<div>
+  <a href="https://thoushawnotpass.github.io/portfolio/">
+    <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=justinalexandershaw"/>
+  </a>
+  <img width="26%" src="https://i.imgur.com/xzJSyIm.jpg">
+</div>
+
+<br/>
+
 <p align="center">
   <a href="https://twitter.com/justin_a_shaw">
     <img alt="Justin's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
