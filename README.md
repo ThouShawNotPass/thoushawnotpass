@@ -13,17 +13,17 @@ I'm [Justin Shaw](https://thoushawnotpass.github.io/portfolio/), a student 🎓 
 
 <br/>
 
-<div align="center">
+<span>
   <a href="https://twitter.com/justin_a_shaw">
-    <img align="left" alt="Justin's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    <img alt="Justin's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
   <a href="https://www.linkedin.com/in/justin--shaw/">
-    <img align="left" alt="Justin's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img alt="Justin's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://www.instagram.com/justinalexandershaw/">
-    <img align="left" alt="Justin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <img alt="Justin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
   <a href="https://www.reddit.com/user/alexanderthegreat27/">
-    <img align="left" alt="Justin's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-  </a>  
-<div/>
+    <img alt="Justin's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+  </a>
+<span/>
