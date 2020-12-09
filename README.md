@@ -23,7 +23,7 @@ In my free time, I drink coffee and play soccer.
   <a href="https://wakatime.com/dashboard">
     <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=justinalexandershaw"/>
   </a>
-  <img width="26%" src="https://i.imgur.com/xzJSyIm.jpg">
+  <img width="26%" src="https://i.imgur.com/aYQNPaM.png">
 </div>
 
 <br/>
