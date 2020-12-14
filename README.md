@@ -13,7 +13,7 @@ In my free time, I drink coffee and play soccer.
 <div>
   <img width="26%" src="https://i.imgur.com/06o3vbt.png">
   <a href="https://thoushawnotpass.github.io/portfolio/">
-    <img width="70%" src="https://github-readme-stats.vercel.app/api?username=justinalexandershaw&show_icons=true&theme=dark&custom_title=My%20Github%20Stats&include_all_commits=true&count_private=true"/>
+    <img width="70%" src="https://github-readme-stats.vercel.app/api?username=justinalexandershaw&show_icons=true&theme=dark&custom_title=My%20Github%20Stats&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   </a>
 </div>
 
