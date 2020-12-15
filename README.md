@@ -1,7 +1,9 @@
+![Coffee](https://img.shields.io/badge/coffee-drinking-6f4e37)
 <h3> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h3>
 
 My name is [Justin Shaw](https://justinalexandershaw.github.io/portfolio/) and I am...
-- 🎓 a sophomore [@UW](http://uw.edu),
+
+[![Coffee](https://img.shields.io/badge/studying%20at-UW-blueviolet)](http://uw.edu),
 - 🚀 studying math and computer science,
 - 🧬 an undergraduate researcher with [@GEMSEC](http://depts.washington.edu/gemsec/),
 - ✏️ co-founder of [@Tutorly](https://www.tutorly.app). 
