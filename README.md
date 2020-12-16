@@ -2,10 +2,9 @@
 
 My name is [Justin Shaw](https://justinalexandershaw.github.io/portfolio/) and I am...
 
-[![School](https://img.shields.io/badge/studying%20at-UW-blueviolet)](http://uw.edu)
-
-[![Research](https://img.shields.io/badge/researching-protein%20folding-informational)](http://depts.washington.edu/gemsec/)
-
+- 🎓 a sophomore at the University of Washington,
+- 🚀 studying math and computer science,
+- 🧬 an undergraduate researcher with [@GEMSEC](http://depts.washington.edu/gemsec/),
 - ✏️ co-founder of [@Tutorly](https://www.tutorly.app). 
 
 In my free time, I drink coffee and play soccer.
