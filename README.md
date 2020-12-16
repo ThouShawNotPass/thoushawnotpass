@@ -5,6 +5,7 @@ My name is [Justin Shaw](https://justinalexandershaw.github.io/portfolio/) and I
 [![School](https://img.shields.io/badge/studying%20at-UW-blueviolet)](http://uw.edu)
 
 [![Research](https://img.shields.io/badge/researching-protein%20folding-informational)](http://depts.washington.edu/gemsec/)
+
 - ✏️ co-founder of [@Tutorly](https://www.tutorly.app). 
 
 In my free time, I drink coffee and play soccer.
