@@ -5,7 +5,6 @@ My name is [Justin Shaw](https://justinalexandershaw.github.io/portfolio/) and I
 - 🎓 a sophomore at the University of Washington,
 - 🚀 studying math and computer science,
 - 🧬 an undergraduate researcher with [@GEMSEC](http://depts.washington.edu/gemsec/),
-- ✏️ co-founder of [@Tutorly](https://www.tutorly.app). 
 
 In my free time, I drink coffee and play soccer.
 
