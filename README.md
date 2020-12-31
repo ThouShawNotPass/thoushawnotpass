@@ -2,7 +2,7 @@
 
 My name is [Justin Shaw](https://justinalexandershaw.github.io/portfolio/) and I am...
 
-- 🎓 a sophomore at the University of Washington,
+- 🎓 teaching CS at the University of Washington,
 - 🚀 studying math and computer science,
 - 🧬 an undergraduate researcher with [@GEMSEC](http://depts.washington.edu/gemsec/),
 
