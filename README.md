@@ -2,9 +2,10 @@
 
 My name is [Justin Shaw](https://justinalexandershaw.github.io/portfolio/) and I am...
 
-- 🎓 teaching CS at the University of Washington,
-- 🚀 studying math and computer science,
-- 🧬 an undergraduate researcher with [@GEMSEC](http://depts.washington.edu/gemsec/),
+- 🎓 CSE 14x TA @ UW,
+- 🚀 studying CSE & AMATH @ Allen School,
+- 🧬 ML researcher with [@GEMSEC](http://depts.washington.edu/gemsec/),
+- 🐳 working on [blubbr.io](https://blubbr.io)
 
 In my free time, I drink coffee and play soccer.
 
