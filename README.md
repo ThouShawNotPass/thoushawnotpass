@@ -2,11 +2,9 @@
 
 My name is [Justin Shaw](https://justinalexandershaw.github.io/portfolio/) and I am...
 
-- 🎓 CSE 14x TA @ UW,
-- 🚀 studying CSE & AMATH @ Allen School,
-- 🧬 ML researcher with [@GEMSEC](http://depts.washington.edu/gemsec/),
-- 🦐 Software Developer [@CapitalPrawn](https://capitalprawn.com)
-- 🐳 founder of [blubbr.io](https://blubbr.io)
+- 🚀 &nbsp; CS TA @ UW,
+- 🦐 &nbsp; Software Developer [@CapitalPrawn](https://capitalprawn.com)
+- 🐳 &nbsp; Co-Founder of [blubbr.io](https://blubbr.io)
 
 In my free time, I drink coffee and play soccer.
 
